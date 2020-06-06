@@ -1,4 +1,4 @@
 # probarepx001
 
 
-lknéljknkljb kljbnjké 
+Ez az első, mondhatni próba repóm a githubon.
